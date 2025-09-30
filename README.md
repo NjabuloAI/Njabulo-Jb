@@ -11,12 +11,12 @@
                          '-`  |_|     '-`  |_|     '-`  |_|
                         /mmm/        /mmm/        /mmm/
 
-┌──┤ WHOAMI ├─────────▰▰▰▰▰▰▰▰▰
+┌──┤ owner ├─────────▰▰▰▰▰▰▰▰▰
 │
-├─▣ VAPT
-├─▣ Author of seeker and finalrecon
-├─▣ <a href="https://thgewhiteh4t.github.io/">thewhiteh4t's Blog</a>
-├─▣ I am mostly available at <a href="https://twc1rcle.com/">The White Circle</a>
+├─▣ ➥ live name: [Njabulo Jb]
+├─▣ ➥ Age: (20)
+├─▣ ➥ Country: Botswana & Zimbabwe 
+├─▣ ➥ About: me create JavaScript code
 │
 └───────────────────────────────▰▰▰▰▰▰▰▰▰
 
