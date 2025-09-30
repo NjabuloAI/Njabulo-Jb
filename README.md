@@ -69,44 +69,7 @@ gantt
 
 <table align="center" cellpadding="10" border="1">
   <tr>
-    <td align="center">
-      <b>WhatsApp NjabulJb</b><br>
-      ᴘᴀɪʀ & ᴅᴇᴘʟᴏʏ
-      <br><br>
-            <a href="https://njabulo-onlin.vercel.app/">
-        <img src="https://img.shields.io/badge/ɴᴊᴀʙᴜʟᴏᴊʙ%20ʙᴏᴛ%20.-white" alt="njᥲbᥙᥣo%20Jb%20onᥣιnᥱ" width="300">
-      </a>
-    </td>
-    <td align="center">
-      <b>WhatsApp minibot</b><br>
-      ᴘᴀɪʀ & ᴅᴇᴘʟᴏʏ  
-      <br><br>
-        <a href="https://minibot-online.vercel.app/">
-        <img src="https://img.shields.io/badge/ᴍɪɴɪ%20ʙᴏᴛ%20.-white" alt="𝐏𝐚𝐢𝐫%20𝐬𝐞𝐬𝐬𝐢𝐨𝐧%20𝐜𝐨𝐝𝐞" width="300">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>WhatsApp channel</b><br>
-      welcome channel update 
-      <br><br>
-      <a href="https://whatsapp.com/channel/0029VbBKBfo1t90XmzJziw3f">
-        <img src="https://img.shields.io/badge/WhatsApp%20bot%20update-white" alt="𝐏𝐚𝐢𝐫%20𝐬𝐞𝐬𝐬𝐢𝐨𝐧%20𝐜𝐨𝐝𝐞" width="300">
-      </a>
-      </a>
-    </td>
-    <td align="center">
-      <b>forks</b><br>
-       hy welcome to repo fast forks jew
-      <br><br>
-       <a href="https://github.com/NjabuloJ/Njabulo-Jb/fork">
-        <img src="https://img.shields.io/badge/git%20repo%20forks-white" alt="𝐏𝐚𝐢𝐫%20𝐬𝐞𝐬𝐬𝐢𝐨𝐧%20𝐜𝐨𝐝𝐞" width="300">
-      </a>
-      </a>
-    </td>
-  </tr>
-</table>
+
 
 
 
