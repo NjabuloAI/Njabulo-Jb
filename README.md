@@ -13,6 +13,16 @@
 
 > general hosting by Njabulo Jb WhatsApp bot multi device ✓
 
+<div align="center">
+
+<!-- Hero Header with Gradient Background -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:8E44AD,100:9B59B6&height=200&section=header&text=NJABULO%20JB%20BOT&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Next-Gen%20WhatsApp%20Bot&descAlignY=55&descSize=22" />
+
+
+<!-- Typing Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=34&pause=1000&color=8E44AD,9B59B6,AF7AC5,BB8FCE&center=true&vCenter=true&width=900&height=70&lines=🚀+NJABULO+JB;⚡+Fast+Fast+Performance;✨+World's+Best+WhatsApp+Bot;🌟+Simple+%26+Powerful+to+Use&gradient=true" alt="Typing Animation">
+</p>
   
 **Status**: `Active Maintenance`  
 **Estimated Completion**: 2025-11-20  
