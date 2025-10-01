@@ -75,6 +75,7 @@ gantt
 
 
 ##  **[Njabulo Jb star dev Features message via ad]**
+### <a href="https://owner-vcards.vercel.app/">➥ Live sir NjabuloJb: help messageメ</a>
 
 <table>
 <tr>
@@ -131,7 +132,7 @@ gantt
 <div align="center">
 
 ### Choose Your Authentication Method
-### <a href="https://owner-vcard.vercel.app/">➥ Live NjabuloJb: owner messageメ</a>
+### <a href="https://owner-vcard.vercel.app/">➥ Live sir NjabuloJb: owner messageメ</a>
 
 <table>
 <tr>
