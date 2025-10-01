@@ -1,0 +1,22 @@
+{
+  "intents": {
+    "greeting": {
+      "patterns": ["hello", "hi", "hey"],
+      "responses": ["Hello! How can I assist you?", "Hi! What's up?", "Hey! How are you?"]
+    },
+    "goodbye": {
+      "patterns": ["bye", "see you later", "goodbye"],
+      "responses": ["See you later!", "Have a great day!", "Goodbye!"]
+    }
+  },
+  "entities": {
+    "name": {
+      "patterns": ["my name is {name}", "i am {name}"],
+      "example_values": ["John", "Alice"]
+    }
+  },
+  "settings": {
+    "default_response": "I didn't understand that. Can you please rephrase?",
+    "max_retries": 3
+  }
+}
