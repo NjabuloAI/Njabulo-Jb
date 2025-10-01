@@ -1,0 +1,19 @@
+{
+  "images": {
+    "profile_picture": "https://example.com/profile.jpg",
+    "background_image": "https://example.com/background.jpg"
+  },
+  "videos": {
+    "intro_video": "https://example.com/intro.mp4",
+    "tutorial_video": "https://example.com/tutorial.mp4"
+  },
+  "audio": {
+    "background_music": "https://example.com/music.mp3",
+    "voiceover": "https://example.com/voiceover.mp3"
+  },
+  "social_media": {
+    "facebook": "https://facebook.com/njabulo.jb",
+    "twitter": "https://twitter.com/njabulo_jb",
+    "instagram": "https://instagram.com/njabulo.jb"
+  }
+}
