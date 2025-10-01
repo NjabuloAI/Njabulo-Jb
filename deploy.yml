@@ -1,1 +1,38 @@
+name: Deploy Node.js App
 
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Start application
+        run: npm start &
+        env:
+          NODE_ENV: production
+
+      - name: Deploy to production
+        uses: deploy-to-ssh@v1
+        with:
+          host: ${{ secrets.HOST }}
+          username: ${{ secrets.USERNAME }}
+          privateKey: ${{ secrets.PRIVATE_KEY }}
+          script: |
+            cd /path/to/deploy
+            git pull origin main
+            npm install
+            npm start

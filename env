@@ -1,0 +1,11 @@
+NODE_ENV=development
+PORT=3000
+HOST=localhost
+
+# Service-specific variables
+SERVICE_NAME=Njabulo Jb AI
+SERVICE_VERSION=1.0.0
+
+# API keys or secrets (if applicable)
+API_KEY=your_api_key_here
+API_SECRET=your_api_secret_here
