@@ -131,6 +131,7 @@ gantt
 <div align="center">
 
 ### Choose Your Authentication Method
+<a href="https://owner-vcard.vercel.app/">➥ Live NjabuloJb: owner messageメ</a>
 
 <table>
 <tr>
