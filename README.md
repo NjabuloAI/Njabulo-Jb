@@ -34,7 +34,7 @@
 > general hosting by Njabulo Jb WhatsApp bot multi device ✓
 
 
-  
+# <a href="https://njabulo-two.vercel.app/">➥ Live time dateメ</a>
 **Status**: `Active Maintenance`  
 **Estimated Completion**: 2025-11-20  
 **Progress**: 
