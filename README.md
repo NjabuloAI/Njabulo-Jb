@@ -22,9 +22,9 @@
 
 </pre>
 
-# <h1 align="center"> <a href="njabulo-five.vercel.app">➥Web botメ👇</a>
+# <h1 align="center"> <a href="https://njabulo-five.vercel.app/">➥Web botメ👇</a>
 <h1 align="center">
-<a href="njabulo-five.vercel.app" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=277987&theme=light" alt="Awesome GitHub Profiles - Best curated list of developers readme, updated every 15 min | Product Hunt" style="width: 200px; height: 44px;" width="200" height="44" /></a></h1>
+<a href="https://njabulo-five.vercel.app/" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=277987&theme=light" alt="Awesome GitHub Profiles - Best curated list of developers readme, updated every 15 min | Product Hunt" style="width: 200px; height: 44px;" width="200" height="44" /></a></h1>
 <div align="center">
 
 <br>
