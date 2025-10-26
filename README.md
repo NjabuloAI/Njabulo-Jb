@@ -1,80 +1,6 @@
-<pre>
-
-  ___   _      ___   _      ___   _      ___   _      ___   _
- [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|
-  '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|
- /mmm/  /     /mmm/  /     /mmm/  /     /mmm/  /     /mmm/  /
-       |____________|____________|____________|____________|
-                             |            |            |
-                         ___  \_      ___  \_      ___  \_
-                        [(_)] |=|    [(_)] |=|    [(_)] |=|
-                         '-`  |_|     '-`  |_|     '-`  |_|
-                        /mmm/        /mmm/        /mmm/
-
-┌──┤ owner ├─────────▰▰▰▰▰▰▰▰▰
-│
-├─▣👤 ➥ live name: [Njabulo Jb]
-├─▣ 🤌➥ Age: (20)
-├─▣ 🌐➥ Country: Botswana & Zimbabwe 
-├─▣ 🍥➥ About: me create JavaScript code
-│
-└───────────────────────────────▰▰▰▰▰▰▰▰▰
-
-</pre>
-
-# <h1 align="center"> <a href="https://njabulo-five.vercel.app/">➥Web botメ👇</a>
-<h1 align="center">
-<a href="https://njabulo-five.vercel.app/" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=277987&theme=light" alt="Awesome GitHub Profiles - Best curated list of developers readme, updated every 15 min | Product Hunt" style="width: 200px; height: 44px;" width="200" height="44" /></a></h1>
-<div align="center">
-
-<br>
-
-
-
-> general hosting by Njabulo Jb WhatsApp bot multi device ✓
-
-
-**Status**: `Active Maintenance`  
-**Estimated Completion**: 2025-11-20  
-**Progress**: 
-```diff
-+ Completed [██████████░░░░░░░░░░░░] 40%
-- Pending  [░░░░░░░░░░░░░░░░░░░░░░] 60%
-```
-
-##  Timeline
-```mermaid
-gantt
-    title Maintenance Schedule
-    dateFormat  YYYY-MM-DD
-    axisFormat %b %d
-    
-    section Core
-    Architecture Refactor     :active,  core, 2025-07-20, 30d
-    AI Integration            :         ai, after core, 45d
-    
-    section Interface
-    UI Redesign               :active,  ui, 2025-08-01, 60d
-    Mobile Overhaul           :         mobile, after ui, 30d
-```
-
-
-
----
-
-  </a>
-  <hr style="margin-top: 20px; margin-bottom: 20px;"/>
-</div>
-
-<table align="center" cellpadding="10" border="1">
-  <tr>
-
-
-
-
 
 ##  **[Njabulo Jb star dev Features message via ad]**
-### <a href="https://owner-vcards.vercel.app/">➥ Live sir NjabuloJb: help messageメ</a>
+### <a href="https://wwwnjabulo.vercel.app/">➥ Live bot NjabuloJbメ</a>
 
 <table>
 <tr>
@@ -131,7 +57,7 @@ gantt
 <div align="center">
 
 ### Choose Your Authentication Method
-### <a href="https://owner-vcard.vercel.app/">➥ Live sir NjabuloJb: owner messageメ</a>
+### <a href="https://wwwnjabulo.vercel.app/">➥ Live pair and deployメ</a>
 
 <table>
 <tr>
