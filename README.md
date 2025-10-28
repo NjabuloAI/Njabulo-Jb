@@ -14,6 +14,9 @@
 <a href="" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/ask-here-purple?style=social&logo=gpt" alt="Heroku" />
 </a>
+<a href="" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/meta-ai-purple?style=social&logo=meta" alt="Heroku" />
+</a>
 
 - 🧠 **Multiple AI Providers** - OpenAI & Anthropic support
 - 💬 **Context-Aware** - Remembers conversation history
@@ -73,12 +76,19 @@
 
 #### 📱 **QR Code Method**
 *Quick & Easy*
-
+<a href="" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/message-owner-purple?style=social&logo=messenger" alt="Heroku" />
+</a>
 1. Set `USE_PAIRING_CODE=false`
 2. Run the bot
 3. Scan QR code with WhatsApp
 4. ✅ Connected!
-
+<a href="" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/pair-code-purple?style=social&logo=pair" alt="Njabulo Jb" />
+</a>
+<a href="" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/scan-code-purple?style=social&logo=qr" alt="Njabulo Jb" />
+</a>
 </td>
 <td width="50%" align="center">
 
