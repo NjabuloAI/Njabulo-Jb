@@ -154,7 +154,7 @@
 
 ### 🤖 **AI-Powered**
 ---
-          <a href="fanajbai@gmail.com" target="_blank" rel="noopener noreferrer" className="mr-4">
+ <a href="fanajbai@gmail.com" target="_blank" rel="noopener noreferrer" className="mr-4">
             <img src="https://img.shields.io/badge/© 2025 Njabulo Jb | Made with 💝 by sir Njabulo Jb-green?style=social&logo=Gmail" alt="My Gmail" />
           </a>
           
