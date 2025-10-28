@@ -49,18 +49,6 @@
 - 📊 **Health Monitoring** - Built-in status endpoints
 - 📝 **Comprehensive Logging** - Track all interactions
 - 🐳 **Docker Ready** - Containerized deployment
-<a href="https://www.facebook.com/profile.php?id=100094314013209" target="_blank" rel="noopener noreferrer" className="mr-4">
-            <img src="https://img.shields.io/badge/Facebook-page-blue?style=social&logo=facebook" alt="Facebook" />
-          </a>
-          <a href="https://www.instagram.com/njabulojb710?igsh=ZXZrOGs3bXN2MHBr" target="_blank" rel="noopener noreferrer" className="mr-4">
-            <img src="https://img.shields.io/badge/Instagram-page-pink?style=social&logo=instagram" alt="Instagram" />
-          </a>
-          <a href="https://t.me/njabullojb/9" target="_blank" rel="noopener noreferrer" className="mr-4">
-            <img src="https://img.shields.io/badge/Telegram-page-blue?style=social&logo=telegram" alt="Telegram" />
-          </a>
-          <a href="#" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/YouTube-page-red?style=social&logo=youtube" alt="YouTube" />
-          </a>
           
 </td>
 <td width="50%">
@@ -75,7 +63,18 @@
 </td>
 </tr>
 </table>
-
+<a href="https://www.facebook.com/profile.php?id=100094314013209" target="_blank" rel="noopener noreferrer" className="mr-4">
+            <img src="https://img.shields.io/badge/Facebook-page-blue?style=social&logo=facebook" alt="Facebook" />
+          </a>
+          <a href="https://www.instagram.com/njabulojb710?igsh=ZXZrOGs3bXN2MHBr" target="_blank" rel="noopener noreferrer" className="mr-4">
+            <img src="https://img.shields.io/badge/Instagram-page-pink?style=social&logo=instagram" alt="Instagram" />
+          </a>
+          <a href="https://t.me/njabullojb/9" target="_blank" rel="noopener noreferrer" className="mr-4">
+            <img src="https://img.shields.io/badge/Telegram-page-blue?style=social&logo=telegram" alt="Telegram" />
+          </a>
+          <a href="#" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/YouTube-page-red?style=social&logo=youtube" alt="YouTube" />
+          </a>
 ---
 
 <table>
