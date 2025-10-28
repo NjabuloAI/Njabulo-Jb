@@ -11,13 +11,19 @@
 
 ### 🤖 **AI-Powered**
 
-<a href="" target="_blank" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/ask-here-purple?style=social&logo=gpt" alt="Heroku" />
-</a>
-<a href="" target="_blank" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/meta-ai-purple?style=social&logo=meta" alt="Heroku" />
-</a>
-
+        <a href="https://www.chatgpt.com" target="_blank" rel="noopener noreferrer" className="mr-4">
+          <img src="https://img.shields.io/badge/GPT%20AI-blue?style=social&logo=openai" alt="GPT AI" />
+        </a>
+        <a href="https://www.meta.ai" target="_blank" rel="noopener noreferrer" className="mr-4">
+          <img src="https://img.shields.io/badge/Meta%20AI-blue?style=social&logo=meta" alt="Meta AI" />
+        </a>
+        <a href="https://openai.com" target="_blank" rel="noopener noreferrer" className="mr-4">
+          <img src="https://img.shields.io/badge/Open%20AI-blue?style=social&logo=openai" alt="Open AI" />
+        </a>
+        <a href="https://www.microsoft.com/en-us/ai" target="_blank" rel="noopener noreferrer" className="mr-4">
+          <img src="https://img.shields.io/badge/Microsoft%20AI-blue?style=social&logo=microsoft" alt="Microsoft AI" />
+        </a>
+        
 - 🧠 **Multiple AI Providers** - OpenAI & Anthropic support
 - 💬 **Context-Aware** - Remembers conversation history
 - 🎯 **Smart Responses** - Natural, human-like interactions
@@ -43,7 +49,19 @@
 - 📊 **Health Monitoring** - Built-in status endpoints
 - 📝 **Comprehensive Logging** - Track all interactions
 - 🐳 **Docker Ready** - Containerized deployment
-
+<a href="https://www.facebook.com/profile.php?id=100094314013209" target="_blank" rel="noopener noreferrer" className="mr-4">
+            <img src="https://img.shields.io/badge/Facebook-page-blue?style=social&logo=facebook" alt="Facebook" />
+          </a>
+          <a href="https://www.instagram.com/njabulojb710?igsh=ZXZrOGs3bXN2MHBr" target="_blank" rel="noopener noreferrer" className="mr-4">
+            <img src="https://img.shields.io/badge/Instagram-page-pink?style=social&logo=instagram" alt="Instagram" />
+          </a>
+          <a href="https://t.me/njabullojb/9" target="_blank" rel="noopener noreferrer" className="mr-4">
+            <img src="https://img.shields.io/badge/Telegram-page-blue?style=social&logo=telegram" alt="Telegram" />
+          </a>
+          <a href="#" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/YouTube-page-red?style=social&logo=youtube" alt="YouTube" />
+          </a>
+          
 </td>
 <td width="50%">
 
@@ -116,7 +134,21 @@
 </div>
 
 ---
-
+<a href="https://wa.me/26777821911" target="_blank" rel="noopener noreferrer" className="mr-4">
+            <img src="https://img.shields.io/badge/WhatsApp-contact-green?style=social&logo=whatsapp" alt="WhatsApp" />
+          </a>
+          <a href="https://chat.whatsapp.com/yourgroupinvite" target="_blank" rel="noopener noreferrer" className="mr-4">
+            <img src="https://img.shields.io/badge/WhatsApp-Group-green?style=social&logo=whatsapp" alt="WhatsApp Group" />
+          </a>
+          <a href="https://whatsapp.com/channel/yourchannelinvite" target="_blank" rel="noopener noreferrer" className="mr-4">
+            <img src="https://img.shields.io/badge/WhatsApp-Channel-green?style=social&logo=whatsapp" alt="WhatsApp Channel" />
+          </a>
+          <a href="+26777821911" target="_blank" rel="noopener noreferrer" className="mr-4">
+            <img src="https://img.shields.io/badge/SMS-green?style=social&logo=messenger" alt="Message Owner" />
+          </a>
+          <a href="fanajbai@gmail.com" target="_blank" rel="noopener noreferrer" className="mr-4">
+            <img src="https://img.shields.io/badge/Gimal-green?style=social&logo=Gmail" alt="My Gmail" />
+          </a>
 
 <!-- Footer -->
 <div align="center">
