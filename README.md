@@ -1,6 +1,4 @@
 
-##  **[Njabulo Jb star dev Features message via ad]**
-### <a href="">➥ Live bot NjabuloJbメ</a>
 <p>
 <a href="https://wwwnjabulo.vercel.app/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/website-bot-purple?style=social&logo=github" alt="Njabulo Jb" />
@@ -12,7 +10,7 @@
 <td width="50%">
 
 ### 🤖 **AI-Powered**
-<p>
+
 <a href="https://dashboard.heroku.com/new?template=https://github.com/NjabuloAI/fana-xmd" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Heroku-Deploy-purple?style=social&logo=heroku" alt="Heroku" />
 </a>
