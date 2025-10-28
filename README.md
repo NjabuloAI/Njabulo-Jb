@@ -10,8 +10,7 @@
 <td width="50%">
 
 ### 🤖 **AI-Powered**
-
-        <a href="https://www.chatgpt.com" target="_blank" rel="noopener noreferrer" className="mr-4">
+<a href="https://www.chatgpt.com" target="_blank" rel="noopener noreferrer" className="mr-4">
           <img src="https://img.shields.io/badge/GPT%20AI-blue?style=social&logo=openai" alt="GPT AI" />
         </a>
         <a href="https://www.meta.ai" target="_blank" rel="noopener noreferrer" className="mr-4">
@@ -63,6 +62,12 @@
 </td>
 </tr>
 </table>
+
+---
+
+<table>
+<tr>
+<td width="50%" align="center">
 <a href="https://www.facebook.com/profile.php?id=100094314013209" target="_blank" rel="noopener noreferrer" className="mr-4">
             <img src="https://img.shields.io/badge/Facebook-page-blue?style=social&logo=facebook" alt="Facebook" />
           </a>
@@ -75,12 +80,6 @@
           <a href="#" target="_blank" rel="noopener noreferrer">
             <img src="https://img.shields.io/badge/YouTube-page-red?style=social&logo=youtube" alt="YouTube" />
           </a>
----
-
-<table>
-<tr>
-<td width="50%" align="center">
-
 #### 📱 **QR Code Method**
 *Quick & Easy*
 <a href="" target="_blank" rel="noopener noreferrer">
