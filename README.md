@@ -150,10 +150,10 @@
           </a>
 
 <!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:8E44AD,100:9B59B6&height=120&section=footer&text=Thank%20You!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70&desc=Best+Whatsapp+Bot+❤️&descAlignY=88&descSize=14" />
-  <p><b>© 2025 Njabulo Jb | Made with 💝 by sir Njabulo Jb </b></p>
 </div>
-
+          <a href="fanajbai@gmail.com" target="_blank" rel="noopener noreferrer" className="mr-4">
+            <img src="https://img.shields.io/badge/© 2025 Njabulo Jb | Made with 💝 by sir Njabulo Jb-green?style=social&logo=Gmail" alt="My Gmail" />
+          </a>
+          
 </div>
 
