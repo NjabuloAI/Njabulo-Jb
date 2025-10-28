@@ -80,6 +80,7 @@
           <a href="#" target="_blank" rel="noopener noreferrer">
             <img src="https://img.shields.io/badge/YouTube-page-red?style=social&logo=youtube" alt="YouTube" />
           </a>
+---
 #### 📱 **QR Code Method**
 *Quick & Easy*
 <a href="" target="_blank" rel="noopener noreferrer">
