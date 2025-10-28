@@ -14,7 +14,6 @@
 <a href="https://dashboard.heroku.com/new?template=https://github.com/NjabuloAI/fana-xmd" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Heroku-Deploy-purple?style=social&logo=heroku" alt="Heroku" />
 </a>
-</p>
 
 - 🧠 **Multiple AI Providers** - OpenAI & Anthropic support
 - 💬 **Context-Aware** - Remembers conversation history
