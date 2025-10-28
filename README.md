@@ -58,17 +58,7 @@
 </tr>
 </table>
 
-
-
-
 ---
-
-##  **[WhatsApp Authentication]**
-
-<div align="center">
-
-### Choose Your Authentication Method
-### <a href="https://wwwnjabulo.vercel.app/">➥ Live pair and deployメ</a>
 
 <table>
 <tr>
