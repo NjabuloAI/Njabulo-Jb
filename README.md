@@ -155,7 +155,7 @@
 ###  **Njabulo Jb JavaScript**
 ---
  <a href="fanajbai@gmail.com" target="_blank" rel="noopener noreferrer" className="mr-4">
-            <img src="https://img.shields.io/badge/© 2025 Njabulo Jb | Made with 💝 by sir Njabulo Jb Whatsapp bot multi device family go 2026-green?style=social&logo=local" alt="Njabulo Jb" />
+            <img src="https://img.shields.io/badge/© 2025 Njabulo Jb | Made with 💝 by sir Njabulo Jb Whatsapp bot multi device family go-2026-green?style=social&logo=local" alt="Njabulo Jb" />
           </a>
           
 </div>
